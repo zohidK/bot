@@ -1,6 +1,0 @@
-telebot
-apscheduler
-sqlite3
-requests
-json
-time
